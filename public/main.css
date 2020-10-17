@@ -1,0 +1,18 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    font-size: 2rem;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+a{
+    font-family: 'Times New Roman', Times, serif;
+}
