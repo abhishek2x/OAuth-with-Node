@@ -5,8 +5,8 @@ const axios = require('axios')
 
 // This is the client ID and client secret that you obtained
 // while registering the application
-const clientID = '5b9b1db9b1b9088a4be3'
-const clientSecret = 'f660da8246ecb5444c31137fba16973d89e30019'
+const clientID = '<your_clientID>'
+const clientSecret = '<your_cliend_secret>'
 
 const app = express()
 
